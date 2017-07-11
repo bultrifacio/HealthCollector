@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "340848211714",
+    "firebase_url": "https://socialhealth-6ce5a.firebaseio.com",
+    "project_id": "socialhealth-6ce5a",
+    "storage_bucket": "socialhealth-6ce5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340848211714:android:c7ac1ab68ae7c9b2",
+        "android_client_info": {
+          "package_name": "com.arroyo.juancarlos.healthcollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340848211714-0nfca59bvig8vlghtsfuohgj7l16giok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arroyo.juancarlos.healthcollector",
+            "certificate_hash": "029ec35326379e0fe41f4dcefdadafaa59cc8990"
+          }
+        },
+        {
+          "client_id": "340848211714-io1qvqq7ql99md127bfkpfnna8r9lhcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe-CSQXAlkwgs_R8CCErwKWl7dfeb1W4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340848211714-io1qvqq7ql99md127bfkpfnna8r9lhcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

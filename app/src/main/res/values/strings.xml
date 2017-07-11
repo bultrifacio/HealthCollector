@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SocialHealth</string>
+    <string name="action_settings">action_settings</string>
+    <string name="Settings">Opciones</string>
+    <string name="label_google_sign_in">Inicia sesión con Google</string>
+    <string name="desc_google_sign_in">Usa Google para iniciar sesión.</string>
+
+    <string name="hint_user_id">User ID</string>
+    <string name="get_custom_token">Get Token</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="loading">Cargando…</string>
+    <string name="custom_token">Custom Token</string>
+    <string name="signed_out">Sesión cerrada</string>
+    <string name="token_null">Token: null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="desc_firebase_lockup">Firebase logo and name</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="google_title_text">Inicia sesión con Google</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/userPhoto"
+        android:layout_width="148dp"
+        android:layout_height="145dp"
+        app:srcCompat="@drawable/com_facebook_profile_picture_blank_square" />
+
+    <LinearLayout
+        android:layout_width="265dp"
+        android:layout_height="146dp"
+        android:baselineAligned="false"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/userName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:lines="3"
+            android:text="TextView"
+            android:textAlignment="textStart"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/userHeight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="2"
+            android:text="TextView"
+            android:layout_marginLeft="10dp"
+            android:textAlignment="viewStart" />
+
+        <TextView
+            android:id="@+id/userWeight"
+            android:layout_width="match_parent"
+            android:layout_height="23dp"
+            android:lines="2"
+            android:layout_marginLeft="10dp"
+            android:text="TextView" />
+    </LinearLayout>
+</LinearLayout>
